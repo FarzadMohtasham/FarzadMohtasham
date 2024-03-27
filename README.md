@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/mrfmohtasham" target="blank"><img src="https://img.shields.io/twitter/follow/mrfmohtasham?logo=twitter&style=for-the-badge" alt="mrfmohtasham" /></a> </p>
 
 - 🔭 I’m currently working on [ZeroToRelease - Personal Brand](https://github.com/FarzadMohtasham/ZeroToRelease)
+- 🔭 I will start working on Coino-Tracker as soon as possible with React.JS & NEXT.JS [Coino-Tracker - Simple CryptoCurrency tracking system](https://github.com/FarzadMohtasham/Coino-Tracker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
