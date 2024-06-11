@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
-<h3 align="center">A passionate React Developer & Software Engenieer that loves to make awesme products</h3>
+<h3 align="center">A passionate React Developer & Software Engenieer that loves to make awesome products</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadmohtasham" alt="farzadmohtasham" /></a> </p>
 
@@ -32,7 +32,6 @@
       <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
       <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
       <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
       <a href="https://github.com/pmndrs/zustand/" target="_blank" rel="noreferrer"> <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" alt="javascript" width="40" height="40"/></a>
