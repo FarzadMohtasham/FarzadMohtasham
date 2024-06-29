@@ -41,3 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzadmohtasham&show_icons=true&locale=en&layout=compact" alt="farzadmohtasham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzadmohtasham&show_icons=true&locale=en" alt="farzadmohtasham" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FarzadMohtasham)](https://github.com/ryo-ma/github-profile-trophy)
