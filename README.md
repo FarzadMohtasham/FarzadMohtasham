@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzadmohtasham&show_icons=true&locale=en" alt="farzadmohtasham" /></p
 <br>
-<h4 align="center">Powered By Github ❤️</h4>
+<h4 align="center">Working with ❤️ In GitHub and Developers Community</h4>
