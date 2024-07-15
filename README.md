@@ -92,7 +92,7 @@
               alt="farzadmohtasham" /></p
 <br>
 
-### 🛠️ Tools and Technologies In Detials
+### 🛠️ The tools I use in React projects
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -148,9 +148,13 @@
 ![Class Variance Authority](https://img.shields.io/badge/-Class%20Variance%20Authority-000000?style=flat-square&logoColor=white)
 ![Cryptocurrency Icons](https://img.shields.io/badge/-Cryptocurrency%20Icons-3A3A3A?style=flat-square&logo=cryptocurrency-icons&logoColor=white)
 
-### 📚 Books
+### 📚 The books I have read
 - Clean Code by Robert C. Martin
+- Clean Coder by Robert C. Martin
 - Clean Architecture by Robert C. Martin
 - Refactoring by Martin Fowler
+- Modern Software Engineering by David Farley
+- Introduction to algorithms by Thomas H. Cormen and Charles E. Leiserson and Ronald L Rivest and Clifford Stein
+- ...
 
 <h4 align="center">Working with ❤️ In GitHub and Developers Community</h4>
