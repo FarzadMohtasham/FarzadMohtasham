@@ -25,9 +25,8 @@
                                                                             height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
+  <br/>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
     width="40" height="40" /></a>
@@ -92,259 +91,46 @@
               src="https://github-readme-stats.vercel.app/api?username=farzadmohtasham&show_icons=true&locale=en"
               alt="farzadmohtasham" /></p
 <br>
-<div dir="auto">
-  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Languages:</h3><a
-    id="user-content-languages" class="anchor" aria-label="Permalink: Languages:" href="#languages">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-    </svg>
-  </a></div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-      <tr>
-        <th>Python3</th>
-        <th>C</th>
-        <th>JS</th>
-        <th>Solidity</th>
-        <th>GO</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python"
-          alt="Python" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="55"
-          height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"
-          title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" title="Solidity"
-          alt="Solidity" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" title="Solidity"
-          alt="Solidity" width="55" height="55" style="max-width: 100%;"></a></td>
-      </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Best frameworks and main libraries for
-    Python3:</h3><a id="user-content-best-frameworks-and-main-libraries-for-python3" class="anchor"
-                    aria-label="Permalink: Best frameworks and main libraries for Python3:"
-                    href="#best-frameworks-and-main-libraries-for-python3">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-    </svg>
-  </a></div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-      <tr>
-        <th>Pytorch</th>
-        <th>Selenium</th>
-        <th>Numpy</th>
-        <th>Pandas</th>
-        <th>Sklearn</th>
-        <th>OpenCV</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/pytorch/pytorch-original.svg" title="Pytorch"
-          alt="Pytorch" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" title="Selenium"
-          alt="Selenium" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"
-          alt="Numpy" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" title="Pandas"
-          alt="Pandas" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg"
-          title="sklearn" alt="sklearn" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl"
-          width="55" height="55" style="max-width: 100%;"></a></td>
-      </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">My tools for Data Manipulation &amp;
-    Visualisation:</h3><a id="user-content-my-tools-for-data-manipulation--visualisation" class="anchor"
-                          aria-label="Permalink: My tools for Data Manipulation &amp; Visualisation:"
-                          href="#my-tools-for-data-manipulation--visualisation">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-    </svg>
-  </a></div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-      <tr>
-        <th>Conda</th>
-        <th>Jupyter</th>
-        <th>Spark</th>
-        <th>MySQL</th>
-        <th>Postgres</th>
-        <th>SQLite</th>
-        <th>Plotly</th>
-        <th>Matpltlib</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/anaconda/anaconda-original-wordmark.svg"
-          title="Anaconda" alt="Conda" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original-wordmark.svg"
-          title="Jupiter" alt="Jupiter" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg"
-          title="Spark" alt="Spark" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"
-          alt="MySQL" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" title="pg"
-          alt="pg" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"
-          alt="SQLite" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/plotly/plotly-original.svg" title="plotly"
-          alt="pltly" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/matplotlib/matplotlib-original.svg" title="plotly"
-          alt="pltly" width="55" height="55" style="max-width: 100%;"></a></td>
-      </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Environments, Testing, Other:</h3><a
-    id="user-content-environments-testing-other" class="anchor" aria-label="Permalink: Environments, Testing, Other:"
-    href="#environments-testing-other">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-    </svg>
-  </a></div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-      <tr>
-        <th>nodejs</th>
-        <th>Git</th>
-        <th>Docker</th>
-        <th>Pytest</th>
-        <th>Swagger</th>
-        <th>Postman</th>
-        <th>VBox</th>
-        <th>HardHat</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs"
-          alt="NodeJS" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"
-          width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker"
-          alt="Docker" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/pytest/pytest-original-wordmark.svg" title="pytest"
-          alt="pytest" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/swagger/swagger-original-wordmark.svg"
-          title="Swagger" alt="Swagger" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original-wordmark.svg"
-          title="Postman" alt="Postman" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer nofollow"
-               href="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067"><img
-          src="https://camo.githubusercontent.com/d152061e1371a762bf45b303e9319845858d37c095a64850e804a05bdd3d9020/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303139303530312f7876742f6b697373706e672d636f6d70757465722d69636f6e732d7669727475616c626f782d706f727461626c652d6e6574776f726b2d677261706869632d7669727475616c626f782d69636f6e2d6f662d6c696e652d7374796c652d617661696c61626c652d696e2d7376672d35636361323437663733663965332e363131323732313131353536373531343837343735312e6a7067"
-          title="Postman" alt="Postman" width="55" height="55"
-          data-canonical-src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg"
-          style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/hardhat/hardhat-original.svg" title="Swagger"
-          alt="Swagger" width="55" height="55" style="max-width: 100%;"></a></td>
-      </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">OS:</h3><a id="user-content-os"
-                                                                                             class="anchor"
-                                                                                             aria-label="Permalink: OS:"
-                                                                                             href="#os">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-    </svg>
-  </a></div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-      <tr>
-        <th>Linux</th>
-        <th>Ubuntu</th>
-        <th>Kali</th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux"
-          width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"><img
-          src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"
-          alt="Ubuntu" width="55" height="55" style="max-width: 100%;"></a></td>
-        <td><a target="_blank" rel="noopener noreferrer"
-               href="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg"><img
-          src="https://github.com/canaleal/devicon/raw/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg"
-          title="Linux" alt="Linux" width="55" height="55" style="max-width: 100%;"></a></td>
-      </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
+
+### 🛠️ Tools and Technologies In Detials
+
+#### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
+#### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![db.js](https://img.shields.io/badge/-db.js-000000?style=flat-square&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white)
+![React Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Standard Version](https://img.shields.io/badge/-Standard%20Version-000000?style=flat-square&logo=standard-version&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+
+#### Validation
+![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white)
+![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white)
+
 <h4 align="center">Working with ❤️ In GitHub and Developers Community</h4>
