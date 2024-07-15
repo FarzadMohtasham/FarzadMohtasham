@@ -105,21 +105,25 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![Emotion](https://img.shields.io/badge/-Emotion-C56BFF?style=flat-square&logo=emotion&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/-TanStack%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white)
+![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white)
+![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![db.js](https://img.shields.io/badge/-db.js-000000?style=flat-square&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=redux&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white)
-![React Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![React Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white)
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -128,9 +132,25 @@
 ![Standard Version](https://img.shields.io/badge/-Standard%20Version-000000?style=flat-square&logo=standard-version&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 
-#### Validation
-![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white)
-![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white)
+#### Testing and Linting
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![TypeScript ESLint](https://img.shields.io/badge/-TypeScript%20ESLint-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+#### Others
+![Date-fns](https://img.shields.io/badge/-Date--fns-3A3A3A?style=flat-square&logo=date-fns&logoColor=white)
+![React Hot Toast](https://img.shields.io/badge/-React%20Hot%20Toast-F57C00?style=flat-square&logo=react-hot-toast&logoColor=white)
+![React Error Boundary](https://img.shields.io/badge/-React%20Error%20Boundary-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![React Copy to Clipboard](https://img.shields.io/badge/-React%20Copy%20to%20Clipboard-FFDA44?style=flat-square&logo=copy-to-clipboard&logoColor=black)
+![React Loading Skeleton](https://img.shields.io/badge/-React%20Loading%20Skeleton-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Spinners](https://img.shields.io/badge/-React%20Spinners-FFC107?style=flat-square&logo=react-spinners&logoColor=white)
+![Class Variance Authority](https://img.shields.io/badge/-Class%20Variance%20Authority-000000?style=flat-square&logoColor=white)
+![Cryptocurrency Icons](https://img.shields.io/badge/-Cryptocurrency%20Icons-3A3A3A?style=flat-square&logo=cryptocurrency-icons&logoColor=white)
+
+### 📚 Books
+- Clean Code by Robert C. Martin
+- Clean Architecture by Robert C. Martin
+- Refactoring by Martin Fowler
 
 <h4 align="center">Working with ❤️ In GitHub and Developers Community</h4>
