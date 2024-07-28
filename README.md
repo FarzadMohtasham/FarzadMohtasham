@@ -157,4 +157,4 @@
 - Introduction to algorithms by Thomas H. Cormen and Charles E. Leiserson and Ronald L Rivest and Clifford Stein
 - ...
 
-<h4 align="center">Working with ❤️ In GitHub and Developers Community</h4>
+<h4 align="center">Working with ❤️ In GitHub and Software Engineers Community</h4>
