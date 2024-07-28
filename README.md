@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
-<h3 align="center">A passionate React Developer & Software Engineer that loves to make awesome high-engineered products</h3>
+<h3 align="center">A passionate React Developer and Software Engineer dedicated to creating high-quality, innovative products.</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
   src="https://github-profile-trophy.vercel.app/?username=farzadmohtasham" alt="farzadmohtasham" /></a></p>
@@ -148,6 +148,20 @@
 ![Class Variance Authority](https://img.shields.io/badge/-Class%20Variance%20Authority-000000?style=flat-square&logoColor=white)
 ![Cryptocurrency Icons](https://img.shields.io/badge/-Cryptocurrency%20Icons-3A3A3A?style=flat-square&logo=cryptocurrency-icons&logoColor=white)
 
+### Inspirational and Fun Quotes that I love them
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."  
+> – Harold Abelson
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+> – Martin Fowler
+
+> "There are two ways to write error-free programs; only the third one works."  
+> – Alan Perlis
+
+> "Java is to JavaScript what car is to Carpet."  
+> – Chris Heilmann
+
 ### 📚 The books I have read
 - Clean Code by Robert C. Martin
 - Clean Coder by Robert C. Martin
@@ -157,4 +171,4 @@
 - Introduction to algorithms by Thomas H. Cormen and Charles E. Leiserson and Ronald L Rivest and Clifford Stein
 - ...
 
-<h4 align="center">Working with ❤️ In GitHub and Software Engineers Community</h4>
+<h4 align="center">Working with passion and ❤️ in the GitHub and Software Engineering community.</h4>
