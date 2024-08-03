@@ -135,6 +135,7 @@
 #### Testing and Linting
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-00C58E?style=flat&logo=cypress&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![TypeScript ESLint](https://img.shields.io/badge/-TypeScript%20ESLint-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
