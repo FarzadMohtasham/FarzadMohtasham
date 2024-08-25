@@ -116,54 +116,66 @@
               alt="farzadmohtasham" /></p
 <br>
 
-### 🛠️ The tools I use in React projects
+## 🛠️ The tools I use as a Fullstack Developer
 
-#### Languages
+### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=20&borderRadius=5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&borderRadius=5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&borderRadius=5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&borderRadius=5)
 
-#### Frameworks and Libraries
+### Frontend Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=5)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&borderRadius=5)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white&borderRadius=5)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&borderRadius=5)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white&borderRadius=5)
-![Emotion](https://img.shields.io/badge/-Emotion-C56BFF?style=flat-square&logo=emotion&logoColor=white&borderRadius=5)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&borderRadius=5)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white&borderRadius=5)
-![TanStack Table](https://img.shields.io/badge/-TanStack%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white&borderRadius=5)
-![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white&borderRadius=5)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
-![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white&borderRadius=5)
-![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white&borderRadius=5)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white&borderRadius=5)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white&borderRadius=5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white&borderRadius=5)
 ![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&borderRadius=5)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white&borderRadius=5)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black&borderRadius=5)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white&borderRadius=5)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white&borderRadius=5)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white&borderRadius=5)
 ![React Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white&borderRadius=5)
 
-#### Tools
+### Backend Frameworks and Libraries
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&borderRadius=5)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&borderRadius=5)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&borderRadius=5)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&borderRadius=5)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&borderRadius=5)
+![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white&borderRadius=5)
+![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white&borderRadius=5)
+![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white&borderRadius=5)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&borderRadius=5)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&borderRadius=5)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&borderRadius=5)
+
+### Tools and DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&borderRadius=5)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white&borderRadius=5)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&borderRadius=5)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&borderRadius=5)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&borderRadius=5)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&borderRadius=5)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&borderRadius=5)
 ![Standard Version](https://img.shields.io/badge/-Standard%20Version-000000?style=flat-square&logo=standard-version&logoColor=white&borderRadius=5)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white&borderRadius=5)
 
-#### Testing and Linting
+### Testing and Linting
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white&borderRadius=5)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white&borderRadius=5)
 ![Cypress](https://img.shields.io/badge/Cypress-00C58E?style=flat-square&logo=cypress&logoColor=white&borderRadius=5)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white&borderRadius=5)
 ![TypeScript ESLint](https://img.shields.io/badge/-TypeScript%20ESLint-007ACC?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
 
-#### Others
+### Others
 ![Date-fns](https://img.shields.io/badge/-Date--fns-3A3A3A?style=flat-square&logo=date-fns&logoColor=white&borderRadius=5)
 ![React Hot Toast](https://img.shields.io/badge/-React%20Hot%20Toast-F57C00?style=flat-square&logo=react-hot-toast&logoColor=white&borderRadius=5)
 ![React Error Boundary](https://img.shields.io/badge/-React%20Error%20Boundary-CA4245?style=flat-square&logo=react-router&logoColor=white&borderRadius=5)
@@ -174,7 +186,7 @@
 ![Cryptocurrency Icons](https://img.shields.io/badge/-Cryptocurrency%20Icons-3A3A3A?style=flat-square&logo=cryptocurrency-icons&logoColor=white&borderRadius=5)
 
 
-### Inspirational and Fun Quotes that I love them
+## Inspirational and Fun Quotes that I love them
 
 > "Programs must be written for people to read, and only incidentally for machines to execute."  
 > – Harold Abelson
@@ -188,7 +200,7 @@
 > "Java is to JavaScript what car is to Carpet."  
 > – Chris Heilmann
 
-### 📚 The books I have read
+## 📚 The books I have read
 - Clean Code by Robert C. Martin
 - Clean Coder by Robert C. Martin
 - Clean Architecture by Robert C. Martin
