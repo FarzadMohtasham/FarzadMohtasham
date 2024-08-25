@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
-<h3 align="center">A passionate React Developer and Software Engineer dedicated to creating high-quality, innovative products.</h3>
+<h3 align="center">A passionate Fullstack Developer and Software Engineer dedicated to creating high-quality, innovative products.</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
   src="https://github-profile-trophy.vercel.app/?username=farzadmohtasham" alt="farzadmohtasham" /></a></p>
