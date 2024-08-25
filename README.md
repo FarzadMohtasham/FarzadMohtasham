@@ -8,7 +8,8 @@
   src="https://img.shields.io/twitter/follow/mrfmohtasham?logo=twitter&style=for-the-badge" alt="mrfmohtasham" /></a>
 </p>
 
-- 💸💵 Working on CoinTrackX that built with REACT.JS [CoinTrackX - Online and Free cryptocurrency tracking platform](https://github.com/FarzadMohtasham/CoinTrackX)
+## Open-source Projects
+- 💸💵 CoinTrackX: built with REACT.JS & Supabase [CoinTrackX - Online and Free cryptocurrency tracking platform](https://github.com/FarzadMohtasham/CoinTrackX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
