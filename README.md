@@ -78,9 +78,33 @@
     alt="webpack" width="40" height="40" /></a>
   <a href="https://tanstack.com/query" target="_blank" rel="noreferrer"> <img
     src="https://zwrleecsvygsftotatty.supabase.co/storage/v1/object/public/NEXO%20Files/logos__react_query_icon.svg"
-    alt="figma" width="40" height="40" /> </a>
+    alt="figma" width="40" height="40" />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+</a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+</a>
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="40" height="40" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+</a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
 </p>
 
 <p><img align="left"
