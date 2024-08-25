@@ -139,10 +139,10 @@
 ### Tools and DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&borderRadius=5)
+![Microservice](https://img.shields.io/badge/-Microservice-0078D4?style=flat-square&logo=microservices&logoColor=white&borderRadius=5)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white&borderRadius=5)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&borderRadius=5)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&borderRadius=5)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&borderRadius=5)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&borderRadius=5)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&borderRadius=5)
 ![Standard Version](https://img.shields.io/badge/-Standard%20Version-000000?style=flat-square&logo=standard-version&logoColor=white&borderRadius=5)
