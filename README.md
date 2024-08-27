@@ -191,4 +191,9 @@
 - Introduction to algorithms by Thomas H. Cormen and Charles E. Leiserson and Ronald L Rivest and Clifford Stein
 - ...
 
+## 🗣️ The languages ​​I speak 
+- English
+- Turkish
+- Persian
+
 <h4 align="center">Working with passion and ❤️ in the GitHub and Software Engineers community.</h4>
