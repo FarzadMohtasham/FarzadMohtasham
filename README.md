@@ -9,7 +9,8 @@
 </p>
 
 ## Open-source Projects
-- 💸💵 CoinTrackX: built with REACT.JS & Supabase [CoinTrackX - Online and Free cryptocurrency tracking platform](https://github.com/FarzadMohtasham/CoinTrackX)
+- 💸 CoinTrackX: Cryptocurrency Tracking Assets Platform - CoinTrackX is a free, online platform to track your cryptocurrency assets in real-time. Built with React.js and Supabase for a seamless experience. [Explore CoinTrackX on GitHub](https://github.com/FarzadMohtasham/CoinTrackX)
+- 📝 READMEify.app: README File Generator for Developers - READMEify.app helps developers generate professional README files effortlessly. Built with React.js-Next.js and Node.js-NestJS for a smooth, efficient process. [READMEify.app](https://github.com/FarzadMohtasham/READMEify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
