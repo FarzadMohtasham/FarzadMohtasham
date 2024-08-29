@@ -115,12 +115,12 @@
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white&borderRadius=5)
 ![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&borderRadius=5)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white&borderRadius=5)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white&borderRadius=5)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white&borderRadius=5)
-![React Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white&borderRadius=5)
+![Tanstack Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white&borderRadius=5)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
 
 ### Backend Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&borderRadius=5)
@@ -154,19 +154,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white&borderRadius=5)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white&borderRadius=5)
 ![Cypress](https://img.shields.io/badge/Cypress-00C58E?style=flat-square&logo=cypress&logoColor=white&borderRadius=5)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white&borderRadius=5)
-![TypeScript ESLint](https://img.shields.io/badge/-TypeScript%20ESLint-007ACC?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
-
-### Others
-![Date-fns](https://img.shields.io/badge/-Date--fns-3A3A3A?style=flat-square&logo=date-fns&logoColor=white&borderRadius=5)
-![React Hot Toast](https://img.shields.io/badge/-React%20Hot%20Toast-F57C00?style=flat-square&logo=react-hot-toast&logoColor=white&borderRadius=5)
-![React Error Boundary](https://img.shields.io/badge/-React%20Error%20Boundary-CA4245?style=flat-square&logo=react-router&logoColor=white&borderRadius=5)
-![React Copy to Clipboard](https://img.shields.io/badge/-React%20Copy%20to%20Clipboard-FFDA44?style=flat-square&logo=copy-to-clipboard&logoColor=black&borderRadius=5)
-![React Loading Skeleton](https://img.shields.io/badge/-React%20Loading%20Skeleton-646CFF?style=flat-square&logo=vite&logoColor=white&borderRadius=5)
-![React Spinners](https://img.shields.io/badge/-React%20Spinners-FFC107?style=flat-square&logo=react-spinners&logoColor=white&borderRadius=5)
-![Class Variance Authority](https://img.shields.io/badge/-Class%20Variance%20Authority-000000?style=flat-square&logoColor=white&borderRadius=5)
-![Cryptocurrency Icons](https://img.shields.io/badge/-Cryptocurrency%20Icons-3A3A3A?style=flat-square&logo=cryptocurrency-icons&logoColor=white&borderRadius=5)
-
 
 ## Inspirational and Fun Quotes that I love them
 
