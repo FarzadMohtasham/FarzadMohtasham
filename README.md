@@ -25,6 +25,9 @@
                                                                             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                                                                             alt="https://www.instagram.com/mrfarzadmohtasham"
                                                                             height="30" width="40" /></a>
+  <a href="https://medium.com/@mrFarzadMohtasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg"
+                                                                   height="30" width="40"
+                                                                   alt="medium logo"/></a>
 </p>
 
 <p align="left">
