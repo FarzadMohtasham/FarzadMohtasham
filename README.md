@@ -11,8 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=FarzadMohtasham&style=flat-square)
 
 ## Open-Source Projects
-- 💸 CoinTrackX: Cryptocurrency Tracking Assets Platform - CoinTrackX is a free, online platform to track your cryptocurrency assets in real-time. Built with React.js and Supabase for a seamless experience. [Explore CoinTrackX on GitHub](https://github.com/FarzadMohtasham/CoinTrackX)
-- 📝 READMEify.app: README File Generator for Developers - READMEify.app helps developers generate professional README files effortlessly. Built with React.js-Next.js and Node.js-NestJS for a smooth, efficient process. [Explore READMEify.app on Github](https://github.com/FarzadMohtasham/READMEify.app)
+- 💸 CoinTrackX: Cryptocurrency Tracking Assets Platform - CoinTrackX is a free, online platform to track your cryptocurrency assets in real-time. Built with React.js and Supabase for a seamless experience. [Explore CoinTrackX on GitHub](https://github.com/FarzadMohtasham/CoinTrackX)(https://github.com/FarzadMohtasham/READMEify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
