@@ -102,15 +102,15 @@
               alt="farzadmohtasham" /></p
 <br>
 
-## 🛠️ The tools I use as a Fullstack Developer
+# 🛠️ The tools I use as a Fullstack Developer
 
-### Languages
+## Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=20&borderRadius=5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&borderRadius=5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&borderRadius=5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
 
-### Frontend Frameworks and Libraries
+## Frontend Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=5)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&borderRadius=5)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white&borderRadius=5)
@@ -125,7 +125,7 @@
 ![Tanstack Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white&borderRadius=5)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
 
-### Backend Frameworks and Libraries
+## Backend Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&borderRadius=5)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&borderRadius=5)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&borderRadius=5)
@@ -135,13 +135,13 @@
 ![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white&borderRadius=5)
 ![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white&borderRadius=5)
 
-### Databases
+## Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&borderRadius=5)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&borderRadius=5)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&borderRadius=5)
 
-### Tools and DevOps
+## Tools and DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&borderRadius=5)
 ![Microservice](https://img.shields.io/badge/-Microservice-0078D4?style=flat-square&logo=microservices&logoColor=white&borderRadius=5)
@@ -153,10 +153,16 @@
 ![Standard Version](https://img.shields.io/badge/-Standard%20Version-000000?style=flat-square&logo=standard-version&logoColor=white&borderRadius=5)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white&borderRadius=5)
 
-### Testing and Linting
+## Testing and Linting
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white&borderRadius=5)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white&borderRadius=5)
 ![Cypress](https://img.shields.io/badge/Cypress-00C58E?style=flat-square&logo=cypress&logoColor=white&borderRadius=5)
+
+## Project Management and Methodologies
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white&borderRadius=5)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white&borderRadius=5)
+![Agile](https://img.shields.io/badge/-Agile-FFCC33?style=flat-square&logo=agile&logoColor=black&borderRadius=5)
+
 
 ## Inspirational and Fun Quotes that I love them
 
