@@ -103,18 +103,25 @@
               alt="farzadmohtasham" /></p
 <br>
 
-# 🛠️ The tools I use as a Fullstack Developer
+# ⚒️ The tools I use as a Fullstack Developer
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=20&borderRadius=5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&borderRadius=5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&borderRadius=5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white&borderRadius=5)
+
+## Web3 Tools
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white&borderRadius=5)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-4E5EE4?style=flat-square&logo=javascript&logoColor=white&borderRadius=5)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FCC624?style=flat-square&logo=hardhat&logoColor=black&borderRadius=5)
+![Truffle](https://img.shields.io/badge/-Truffle-5C2D91?style=flat-square&logo=truffle&logoColor=white&borderRadius=5)
+![Ganache](https://img.shields.io/badge/-Ganache-E57242?style=flat-square&logo=ganache&logoColor=white&borderRadius=5)
 
 ## Frontend Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=5)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&borderRadius=5)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white&borderRadius=5)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&borderRadius=5)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white&borderRadius=5)
 ![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&borderRadius=5)
@@ -123,23 +130,17 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white&borderRadius=5)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white&borderRadius=5)
-![Tanstack Table](https://img.shields.io/badge/-React%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white&borderRadius=5)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
 
 ## Backend Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&borderRadius=5)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&borderRadius=5)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&borderRadius=5)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&borderRadius=5)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&borderRadius=5)
-![Lodash](https://img.shields.io/badge/-Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white&borderRadius=5)
-![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=zod&logoColor=white&borderRadius=5)
-![Yup](https://img.shields.io/badge/-Yup-006400?style=flat-square&logo=yup&logoColor=white&borderRadius=5)
 
 ## Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&borderRadius=5)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&borderRadius=5)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&borderRadius=5)
 
 ## Tools and DevOps
@@ -151,12 +152,9 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&borderRadius=5)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&borderRadius=5)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&borderRadius=5)
-![Standard Version](https://img.shields.io/badge/-Standard%20Version-000000?style=flat-square&logo=standard-version&logoColor=white&borderRadius=5)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white&borderRadius=5)
 
 ## Testing and Linting
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white&borderRadius=5)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white&borderRadius=5)
 ![Cypress](https://img.shields.io/badge/Cypress-00C58E?style=flat-square&logo=cypress&logoColor=white&borderRadius=5)
 
 ## Project Management and Methodologies
