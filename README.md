@@ -61,7 +61,6 @@
 
 ## Frontend Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=5)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&borderRadius=5)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&borderRadius=5)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white&borderRadius=5)
 ![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&borderRadius=5)
