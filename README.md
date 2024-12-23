@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
-<h3 align="center">a Web3 Full-Stack Developer, passionate about building cutting-edge decentralized applications, leveraging blockchain technology to drive innovation and create seamless, secure, and user-centric solutions in the Web3 ecosystem</h3>
+<h3 align="center">A Full-Stack Web Developer, passionate about building cutting-edge applications, leveraging technology to drive innovation and create seamless, secure, and user-centric solutions in the digital ecosystem.</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
   src="https://github-profile-trophy.vercel.app/?username=farzadmohtasham&margin-w=8" alt="farzadmohtasham" /></a></p>
