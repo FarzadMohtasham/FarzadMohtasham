@@ -52,13 +52,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white&borderRadius=5)
 
-## Web3 Tools
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white&borderRadius=5)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-4E5EE4?style=flat-square&logo=javascript&logoColor=white&borderRadius=5)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FCC624?style=flat-square&logo=bitcoin&logoColor=black&borderRadius=5)
-![Truffle](https://img.shields.io/badge/-Truffle-5C2D91?style=flat-square&logo=bitcoin&logoColor=white&borderRadius=5)
-![Ganache](https://img.shields.io/badge/-Ganache-E57242?style=flat-square&logo=bitcoin&logoColor=white&borderRadius=5)
-
 ## Frontend Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=5)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&borderRadius=5)
