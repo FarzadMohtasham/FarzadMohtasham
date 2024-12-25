@@ -13,7 +13,7 @@
 ## Open-Source Projects
 - 💸 CoinTrackX: Cryptocurrency Tracking Assets Platform - CoinTrackX is a free and online platform to track your cryptocurrency assets in real-time. Built with React.js and Supabase for a seamless experience. [Explore CoinTrackX on GitHub](https://github.com/FarzadMohtasham/CoinTrackX)
 - 💪 Readmeify: The Next-Level AI-Powered README Generator for Developers. Currently on development [Explore Readmeify on Vercel](https://readmeify.vercel.app/)
-- ☕ A sleek online menu platform for restaurants and coffee shops, featuring QR code access for effortless customer convenience. Currently in development.
+- ☕ Yummies: A sleek online menu platform for restaurants and coffee shops, featuring QR code access for effortless customer convenience. Currently in development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
