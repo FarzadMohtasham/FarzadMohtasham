@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
-<h3 align="center">A Full-Stack Web Developer, passionate about building cutting-edge applications, leveraging technology to drive innovation and create seamless, secure, and user-centric solutions in the digital ecosystem.</h3>
+<h3 align="center">A Python Backend Developer and AI/ML Engineer, passionate about building cutting-edge applications by leveraging Python and advanced machine learning techniques to drive innovation and create seamless, secure, and intelligent solutions in the digital ecosystem.</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
   src="https://github-profile-trophy.vercel.app/?username=farzadmohtasham&margin-w=8" alt="farzadmohtasham" /></a></p>
@@ -44,70 +44,63 @@
               alt="farzadmohtasham" /></p
 <br>
 
-# ⚒️ The tools I use as a Fullstack Developer
+# ⚒️ The tools I use as a Python Backend Developer and AI/ML Engineer
 
 ## Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=20&borderRadius=5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&borderRadius=5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&borderRadius=5)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&borderRadius=5)
 
-## Frontend Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=5)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white&borderRadius=5)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=redux&logoColor=white&borderRadius=5)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white&borderRadius=5)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white&borderRadius=5)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&borderRadius=5)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white&borderRadius=5)
-![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&borderRadius=5)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white&borderRadius=5)
+## Backend Frameworks & APIs
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&borderRadius=5)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&borderRadius=5)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&borderRadius=5)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white&borderRadius=5)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&borderRadius=5)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white&borderRadius=5)
 
-## Backend Stack
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&borderRadius=5)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white&borderRadius=5)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&borderRadius=5)
+## AI/ML Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&borderRadius=5)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&borderRadius=5)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&borderRadius=5)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&borderRadius=5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&borderRadius=5)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white&borderRadius=5)
 
 ## Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&borderRadius=5)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white&borderRadius=5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&borderRadius=5)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&borderRadius=5)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white&borderRadius=5)
 
-## Tools and DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&borderRadius=5)
-![Microservice](https://img.shields.io/badge/-Microservice-0078D4?style=flat-square&logo=microservices&logoColor=white&borderRadius=5)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white&borderRadius=5)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&borderRadius=5)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&borderRadius=5)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&borderRadius=5)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&borderRadius=5)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&borderRadius=5)
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&borderRadius=5)
+![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=flat-square&logo=pytest&logoColor=white&borderRadius=5)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&borderRadius=5)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=jetbrains&logoColor=white&borderRadius=5)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=jetbrains&logoColor=white&borderRadius=5)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&borderRadius=5)
+![HTTPie](https://img.shields.io/badge/HTTPie-000000?style=flat-square&logo=httpie&logoColor=white&borderRadius=5)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&borderRadius=5)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white&borderRadius=5)
 
-## Testing and Linting
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white&borderRadius=5)
-![Cypress](https://img.shields.io/badge/Cypress-00C58E?style=flat-square&logo=cypress&logoColor=white&borderRadius=5)
+---
 
-## Project Management and Methodologies
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white&borderRadius=5)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white&borderRadius=5)
-![Agile](https://img.shields.io/badge/-Agile-FFCC33?style=flat-square&logo=agile&logoColor=black&borderRadius=5)
+# Inspirational Quotes on Python, AI/ML, and Backend Engineering  
 
+> "Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another’s code; too little and expressiveness is endangered."  
+> **– Guido van Rossum** (Creator of Python)  
 
-## Inspirational and Fun Quotes that I love them
+> "Artificial Intelligence is the new electricity. Just as electricity transformed industries 100 years ago, AI will transform industries today."  
+> **– Andrew Ng** (Co-founder of Coursera, Google Brain)  
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."  
-> – Harold Abelson
+> "The backend is the silent hero. It’s where the magic happens, even if users only see the sparkles on the frontend."  
+> **– Adrian Holovaty** (Co-creator of Django)  
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-> – Martin Fowler
+> "Debugging machine learning models is like being a detective in a crime where *you’re also the murderer*."  
+> **– François Chollet** (Creator of Keras)  
 
-> "There are two ways to write error-free programs; only the third one works."  
-> – Alan Perlis
-
-> "Java is to JavaScript what car is to Carpet."  
-> – Chris Heilmann
+> "Python is the second-best language for everything. But sometimes, ‘second-best’ is all you need."  
+> **– Peter Norvig** (Director of Research at Google)  
 
 ## 📚 The books I have read
 - Clean Code by Robert C. Martin
