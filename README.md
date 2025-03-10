@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
 <h3 align="center">
-I am a seasoned Software and System-Level Engineer specializing in open‐source development. My passion lies in leveraging Rust to create innovative, efficient, and revolutionary tools that redefine industry standards and drive technological advancement. 
+I'm a Software and System-Level Engineer focused on open-source projects. I use Rust to build innovative, efficient tools that push industry standards forward.
 </h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
