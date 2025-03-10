@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
 <h3 align="center">
-  I am a Software Engineer and a dedicated Rust and Go developer who loves working on innovative tools and products that transform the lives of engineers and people.
+I am a seasoned Software and System-Level Engineer specializing in open‐source development. My passion lies in leveraging Rust to create innovative, efficient, and revolutionary tools that redefine industry standards and drive technological advancement. 
 </h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
