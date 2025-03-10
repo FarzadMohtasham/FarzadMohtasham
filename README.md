@@ -49,38 +49,13 @@ I am a seasoned Software and System-Level Engineer specializing in open‐source
 # ⚒️ The tools I use as a Software Engineer
 
 ## Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&borderRadius=5)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&borderRadius=5)
-
-## Backend Frameworks & APIs
-
-## Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&borderRadius=5)
 
 ## Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&borderRadius=5)
 
 ---
-
-# Inspirational Quotes on Python, AI/ML, and Backend Engineering  
-
-> "Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another’s code; too little and expressiveness is endangered."  
-> **– Guido van Rossum** (Creator of Python)  
-
-> "Artificial Intelligence is the new electricity. Just as electricity transformed industries 100 years ago, AI will transform industries today."  
-> **– Andrew Ng** (Co-founder of Coursera, Google Brain)  
-
-> "The backend is the silent hero. It’s where the magic happens, even if users only see the sparkles on the frontend."  
-> **– Adrian Holovaty** (Co-creator of Django)  
-
-> "Debugging machine learning models is like being a detective in a crime where *you’re also the murderer*."  
-> **– François Chollet** (Creator of Keras)  
-
-> "Python is the second-best language for everything. But sometimes, ‘second-best’ is all you need."  
-> **– Peter Norvig** (Director of Research at Google)  
 
 ## 📚 The books I have read
 - Clean Code by Robert C. Martin
