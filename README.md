@@ -50,8 +50,34 @@ I'm a Software and System-Level Engineer focused on open-source projects. I use 
 
 ## Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white&borderRadius=5)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
 
-## Tools
+## Rust Frameworks & Libraries
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white&borderRadius=5)
+![CLAP](https://img.shields.io/badge/CLAP-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
+![Serde](https://img.shields.io/badge/Serde-DF0820?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
+![Tracing](https://img.shields.io/badge/Tracing-482677?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
+![Rocket](https://img.shields.io/badge/Rocket-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
+![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
+
+## Blockchain & Smart-Contract Dev
+![Solana](https://img.shields.io/badge/Solana-00FFA1?style=flat-square&logo=solana&logoColor=black&borderRadius=5)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white&borderRadius=5)
+![EVM](https://img.shields.io/badge/eth--evm-000000?style=flat-square&logo=ethereum&logoColor=white&borderRadius=5)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=flat-square&logo=anchor&logoColor=white&borderRadius=5)
+![Foundry](https://img.shields.io/badge/Foundry-FF6C37?style=flat-square&logo=foundry&logoColor=white&borderRadius=5)
+
+## Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&borderRadius=5)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&borderRadius=5)
+
+## DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&borderRadius=5)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&borderRadius=5)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&borderRadius=5)
+
+## Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=5)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&borderRadius=5)
 
