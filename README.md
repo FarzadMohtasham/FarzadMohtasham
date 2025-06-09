@@ -10,7 +10,7 @@ I'm a Software and System-Level Engineer focused on open-source projects. I use 
   src="https://img.shields.io/twitter/follow/mrfmohtasham?logo=twitter&style=for-the-badge" alt="mrfmohtasham" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=FarzadMohtasham&style=flat-square)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Best Projects
 - 💸 CoinTrackX: Cryptocurrency Tracking Assets Platform - CoinTrackX is a free and online platform to track your cryptocurrency assets in real-time. Built with React.js and Supabase for a seamless experience. [Explore CoinTrackX on GitHub](https://github.com/FarzadMohtasham/CoinTrackX)
