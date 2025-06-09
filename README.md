@@ -3,14 +3,9 @@
 I'm a Software and System-Level Engineer focused on open-source projects. I use Rust to build innovative, efficient tools that push industry standards forward.
 </h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
-  src="https://github-profile-trophy.vercel.app/?username=farzadmohtasham&margin-w=8" alt="farzadmohtasham" /></a></p>
-
 <p align="left"><a href="https://twitter.com/mrfmohtasham" target="blank"><img
   src="https://img.shields.io/twitter/follow/mrfmohtasham?logo=twitter&style=for-the-badge" alt="mrfmohtasham" /></a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Best Projects
 - 💸 CoinTrackX: Cryptocurrency Tracking Assets Platform - CoinTrackX is a free and online platform to track your cryptocurrency assets in real-time. Built with React.js and Supabase for a seamless experience. [Explore CoinTrackX on GitHub](https://github.com/FarzadMohtasham/CoinTrackX)
