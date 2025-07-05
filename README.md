@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
 <h3 align="center">
-I'm a Software and System-Level Engineer focused on open-source projects. I use Rust to build innovative, efficient tools that push industry standards forward.
+Rust Systems Engineer & Blockchain Developer | Crafting Robust Smart Contracts and GNU/Linux Tooling
 </h3>
 
 <p align="left"><a href="https://twitter.com/mrfmohtasham" target="blank"><img
