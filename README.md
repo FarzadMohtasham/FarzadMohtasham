@@ -45,16 +45,14 @@ I'm a Software and System-Level Engineer focused on open-source projects. I use 
 
 ## Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white&borderRadius=5)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&borderRadius=5)
 
 ## Rust Frameworks & Libraries
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white&borderRadius=5)
+![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
 ![CLAP](https://img.shields.io/badge/CLAP-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
 ![Serde](https://img.shields.io/badge/Serde-DF0820?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
 ![Tracing](https://img.shields.io/badge/Tracing-482677?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
-![Rocket](https://img.shields.io/badge/Rocket-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
-![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white&borderRadius=5)
 
 ## Blockchain & Smart-Contract Dev
 ![Solana](https://img.shields.io/badge/Solana-00FFA1?style=flat-square&logo=solana&logoColor=black&borderRadius=5)
