@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad Mohtasham</h1>
 <h3 align="center">
-Rust Systems Engineer & Blockchain Developer | Crafting Robust Smart Contracts and GNU/Linux Tooling
+I’m a passionate Software and Blockchain Engineer specializing in the Rust ecosystem, adept at architecting secure, high‑performance distributed systems and smart contracts.
 </h3>
 
 <p align="left"><a href="https://twitter.com/mrfmohtasham" target="blank"><img
