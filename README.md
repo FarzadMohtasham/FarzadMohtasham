@@ -61,18 +61,6 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
   </a>
-  <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gofiber/fiber/master/docs/logo/logo.svg" alt="Fiber" width="40" height="40" />
-  </a>
-  <a href="https://gorm.io/" target="_blank" rel="noreferrer">
-    <img src="https://gorm.io/images/logo.svg" alt="GORM" width="40" height="40" />
-  </a>
-  <a href="https://echo.labstack.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/labstack/echo/master/static/logo.svg" alt="Echo" width="40" height="40" />
-  </a>
-  <a href="https://github.com/go-chi/chi" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/go-chi_chi/icon.svg" alt="Chi" width="40" height="40" />
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
