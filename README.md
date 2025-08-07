@@ -97,6 +97,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farzadmohtasham&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+## 🌍 Languages I Use
+
+| Language   | Proficiency    |
+|------------|----------------|
+| 🇹🇷 Turkish   | Native         |
+| 🇮🇷 Persian  | Native |
+| 🇬🇧 English   | B1 (intermediate) |
